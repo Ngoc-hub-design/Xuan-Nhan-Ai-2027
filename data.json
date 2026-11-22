@@ -4,21 +4,35 @@
     "id": "XNA001",
     "name": "Phạm Thị Lam Giang",
     "role": "Đội trưởng",
-    "department": "Văn nghệ",
-    "fundraising": "Nhóm 6"
+    "department": "",
+    "fundraising": "Nhóm 1"
   },
   {
     "id": "XNA002",
-    "name": "Nguyễn Hoài Bảo Ngọc",
-    "role": "Đội phó Nhân sự",
-    "department": "Văn nghệ",
-    "fundraising": "Nhóm 6"
+    "name": "Võ Đình Diệu Hằng",
+    "role": "Đội phó Chương trình",
+    "department": "Dạy học",
+    "fundraising": "Nhóm 1"
   },
   {
     "id": "XNA003",
     "name": "Ông Nguyễn Nhựt Huy",
-    "role": "Đội phó Hậu cần",
+    "role": "Đội phó Hậu cần - Tài chính",
     "department": "Hậu cần",
-    "fundraising": "Nhóm 6"
+    "fundraising": "Nhóm 1"
+  },
+   {
+    "id": "XNA004",
+    "name": "Nguyễn Hoài Bảo Ngọc",
+    "role": "Đội phó Nhân sự",
+    "department": "Văn nghệ",
+    "fundraising": "Nhóm 2"
+  },
+   {
+    "id": "XNA005",
+    "name": "Đặng Nhã Quyên",
+    "role": "TV BCH Truyền thông",
+    "department": "Truyền thông",
+    "fundraising": "Nhóm 2"
   }
 ]
