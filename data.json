@@ -4,35 +4,35 @@
     "id": "XNA001",
     "name": "Phạm Thị Lam Giang",
     "role": "Đội trưởng",
-    "department": "",
-    "fundraising": "Sai Nhân Uấn"
+    "department": "Nào cũng chơi tuốt",
+    "fundraising": "Đủ quỹ là được"
   },
   {
     "id": "XNA002",
     "name": "Võ Đình Diệu Hằng",
     "role": "Đội phó Chương trình",
     "department": "Dạy học",
-    "fundraising": "Sai Nhân Uấn"
+    "fundraising": "Đủ quỹ là được"
   },
   {
     "id": "XNA003",
     "name": "Ông Nguyễn Nhựt Huy",
     "role": "Đội phó Hậu cần - Tài chính",
     "department": "Hậu cần",
-    "fundraising": "Sai Nhân Uấn"
+    "fundraising": "Đủ quỹ là được"
   },
    {
     "id": "XNA004",
     "name": "Nguyễn Hoài Bảo Ngọc",
     "role": "Đội phó Nhân sự",
     "department": "Văn nghệ",
-    "fundraising": "Sai Nhân Uấn"
+    "fundraising": "Đủ quỹ là được"
   },
    {
     "id": "XNA005",
     "name": "Đặng Nhã Quyên",
     "role": "TV BCH Truyền thông",
     "department": "Truyền thông",
-    "fundraising": "Sai Nhân Uấn"
+    "fundraising": "Đủ quỹ là được"
   }
 ]
