@@ -1,3 +1,4 @@
+
 [
   {
     "id": "XNA001",
@@ -8,13 +9,13 @@
   {
     "id": "XNA002",
     "name": "Nguyễn Hoài Bảo Ngọc",
-    "role": "Đội phó Nhân sự – Phụ trách Ban Văn nghệ",
-    "fundraising": " Nhóm 6"
+    "role": "Đội phó Nhân sự",
+    "fundraising": "Nhóm 6"
   },
   {
     "id": "XNA003",
     "name": "Ông Nguyễn Nhựt Huy",
-    "role": "Đội phó Hậu cần – Tài chính – Phụ trách Hậu cần",
+    "role": "Đội phó Hậu cần",
     "fundraising": "Nhóm 6"
   }
 ]
