@@ -4,18 +4,21 @@
     "id": "XNA001",
     "name": "Phạm Thị Lam Giang",
     "role": "Đội trưởng",
+    "department": "Văn nghệ",
     "fundraising": "Nhóm 6"
   },
   {
     "id": "XNA002",
     "name": "Nguyễn Hoài Bảo Ngọc",
     "role": "Đội phó Nhân sự",
+    "department": "Văn nghệ",
     "fundraising": "Nhóm 6"
   },
   {
     "id": "XNA003",
     "name": "Ông Nguyễn Nhựt Huy",
     "role": "Đội phó Hậu cần",
+    "department": "Hậu cần",
     "fundraising": "Nhóm 6"
   }
 ]
